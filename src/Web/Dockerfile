@@ -37,7 +37,7 @@ CORECLR_NEWRELIC_HOME=/usr/local/newrelic-netcore20-agent \
 CORECLR_PROFILER_PATH=/usr/local/newrelic-netcore20-agent/libNewRelicProfiler.so \
 NEW_RELIC_CODE_LEVEL_METRICS_ENABLED=true \
 NEW_RELIC_LICENSE_KEY=eu01xx583bf1a918b4e10097119064003cdbNRAL \
-NEW_RELIC_APP_NAME=.NET-eShop-1.1
+NEW_RELIC_APP_NAME=.NET-WebShop
 
 # Optional: Set this here if not setting it from docker-compose.yml
 # ENV ASPNETCORE_ENVIRONMENT Development
